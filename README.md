@@ -1,6 +1,6 @@
 # Hey there, I'm Shishir! 👋
 
-## Tech 🛠️
+## Tech Skillset 🛠️
 
 - **Languages:** JavaScript, Java, TypeScript, Python, C, C++, HTML/CSS, Matlab
 - **Frameworks/Libraries:** React, Node.js, GraphQL, Springboot, MaterialUI, Docker
